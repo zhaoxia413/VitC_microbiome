@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Microbiome analyasis of high-dose intravenous vitamin C in patients with metastatic colorectal cancer"
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Microbiome analyasis of high-dose intravenous vitamin C in patients with metastatic colorectal cancer
 {: .fs-9 }
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
