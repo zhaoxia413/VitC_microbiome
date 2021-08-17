@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Configuration
+title: OTU analysis
 nav_order: 2
 ---
 
-# Configuration
+# OTU analysis
 {: .no_toc }
 
 
